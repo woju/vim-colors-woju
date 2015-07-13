@@ -66,6 +66,9 @@ hi DiffDelete   cterm=NONE ctermfg=52 ctermbg=52
 hi DiffChange   cterm=NONE ctermfg=NONE ctermbg=235
 hi DiffText     cterm=NONE ctermfg=NONE ctermbg=235
 
+hi Folded       cterm=NONE ctermfg=111 ctermbg=NONE
+hi FoldColumn   cterm=NONE ctermfg=111 ctermbg=NONE
+
 " misc fixes
 hi link xmlEndTag Function
 "hi link pythonBuiltin Identifier
