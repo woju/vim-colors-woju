@@ -1,5 +1,5 @@
 " my very unfinished Vim colour scheme, loosely based on default and holokai
-" Version:      1.0
+" Version:      1.1
 " Maintainer:   Wojtek Porczyk <woju@invisiblethingslab.com>
 " License:      MIT
 
@@ -63,8 +63,8 @@ hi IncSearch    cterm=reverse ctermfg=NONE ctermbg=NONE
 
 hi DiffAdd      cterm=NONE ctermfg=NONE ctermbg=22
 hi DiffDelete   cterm=NONE ctermfg=52 ctermbg=52
-hi DiffChange   cterm=NONE ctermfg=NONE ctermbg=235
-hi DiffText     cterm=NONE ctermfg=NONE ctermbg=235
+hi DiffChange   cterm=NONE ctermfg=NONE ctermbg=58
+hi DiffText     cterm=NONE ctermfg=16 ctermbg=220
 
 hi Folded       cterm=NONE ctermfg=111 ctermbg=NONE
 hi FoldColumn   cterm=NONE ctermfg=111 ctermbg=NONE
